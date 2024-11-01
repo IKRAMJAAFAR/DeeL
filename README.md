@@ -10,16 +10,16 @@ Presentation W13: <br>
 - [x] Upload dataset
 
 ## Data Preprocessing
-- [] insert
+- [ ] insert
 
 ## Model Building
-- [] insert
+- [ ] insert
 
 ## Deep Learning Model Training
-- [] insert
+- [ ] insert
 
 ## Deep learning model’s experimental results & analysis
-- [] insert
+- [ ] insert
 
 ## Documentation
-- [] insert
+- [ ] insert
