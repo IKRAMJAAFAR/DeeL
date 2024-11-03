@@ -1,25 +1,34 @@
 # Assignment WID3011 Deep Learning 2024/2025
-
-Report: https://docs.google.com/document/d/1agOyZ_kXyY4eX4WH951B_BmCtRAYNX9UKO4-zDcIFAo/edit?usp=sharing <br>
+Current week: Week 4 (Last updated 1 Nov 2024)
+The dataset used: https://www.kaggle.com/datasets/julienjta/nyc-taxi-traffic <br>
+Report: https://docs.google.com/document/d/1agOyZ_kXyY4eX4WH951B_BmCtRAYNX9UKO4-zDcIFAo/edit?usp=sharing (please use siswamail) <br>
 Presentation W8: <br>
 Presentation W13: <br>
 
 # Activity Log:
 
 ## Data Analysis
+Deadline: Week 5 <br>
 - [x] Upload dataset
 
 ## Data Preprocessing
-- [] insert
+Deadline: Week 5 <br>
+- [ ] insert
 
 ## Model Building
-- [] insert
+Deadline: Week 6 - Proposal? (KIV)
+- [ ] insert
 
 ## Deep Learning Model Training
-- [] insert
+Deadline: Week 6 - Proposal? (KIV)
+- [ ] insert
 
 ## Deep learning model’s experimental results & analysis
-- [] insert
+Deadline: Week 6 - Proposal? (KIV)
+- [ ] insert
 
 ## Documentation
-- [] insert
+- [ ] Report - DD: Week 7 (KIV)
+- [ ] Presentation 1 - DD: Week 7
+- [ ] Video - DD: Week 7
+- [ ] Presentation 2 - DD: Week 12
