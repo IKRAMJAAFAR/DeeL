@@ -11,7 +11,8 @@ print(f"Checking file at: {absolute_path}")
 # Initialize lists to store data
 date = []
 prep = []
-snow = []
+snow_fall = []
+snow_depth = []
 min_temp = []
 max_temp = []
 
@@ -27,15 +28,17 @@ else:
                 array = line.strip().split("\t")
                 date.append(array[0])
                 prep.append(round(float(array[1]),5))  # Convert to float for numeric columns
-                snow.append(round(float(array[2]),5))
-                min_temp.append(round(float(array[3]),5))
-                max_temp.append(round(float(array[4]),5))
+                snow_fall.append(round(float(array[2]),5))
+                snow_depth.append(round(float(array[3]),5))
+                min_temp.append(round(float(array[4]),5))
+                max_temp.append(round(float(array[5]),5))
 
         # Create a DataFrame
         dataframe = pd.DataFrame({
             "timestamp": pd.to_datetime(date),
             "prep": prep,
-            "snow": snow,
+            "snow": snow_fall,
+            "snow_depth": snow_depth,
             "min_temp": min_temp,
             "max_temp": max_temp,
         })
