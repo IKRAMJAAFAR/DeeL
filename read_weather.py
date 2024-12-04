@@ -31,17 +31,13 @@ else:
                 min_temp.append(round(float(array[3]),5))
                 max_temp.append(round(float(array[4]),5))
 
-        # Calculate the temperature difference
-        diff_temp = [abs(max_temp[i] - min_temp[i]) for i in range(len(min_temp))]
-
         # Create a DataFrame
         dataframe = pd.DataFrame({
             "timestamp": pd.to_datetime(date),
             "prep": prep,
             "snow": snow,
-            "min temp": min_temp,
-            "max temp": max_temp,
-            "dif temp": diff_temp
+            "min_temp": min_temp,
+            "max_temp": max_temp,
         })
 
         # Save the DataFrame to a CSV file
