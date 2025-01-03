@@ -1,4 +1,7 @@
 # Assignment WID3011 Deep Learning 2024/2025
+
+Material Submissions: https://docs.google.com/document/d/1agOyZ_kXyY4eX4WH951B_BmCtRAYNX9UKO4-zDcIFAo/edit?usp=sharing 
+
 ### Timeline for Deep Learning Assignment
 
 **Phase 1: Refining Data Analysis (13–19 December 2024)**
